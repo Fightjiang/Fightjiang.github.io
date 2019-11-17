@@ -54,5 +54,4 @@ curl http://opac.hnust.cn:8080/reader/infoList.jsp --cookie "JSESSIONID=7472F0F5
 [HTTP Keep-Alive模式](https://www.cnblogs.com/skynet/archive/2010/12/11/1903347.html)   
 [WEB安全之-CSRF（跨站请求伪造）](https://www.jianshu.com/p/855395f9603b)  
 [前端安全系列之二：如何防止CSRF攻击？](https://juejin.im/post/5bc009996fb9a05d0a055192)  
-[浅谈XSS攻击的那些事（附常用绕过姿势）](https://zhuanlan.zhihu.com/p/26177815)  
-<script>alert("hey!you are attacked")</script>
+[浅谈XSS攻击的那些事（附常用绕过姿势）](https://zhuanlan.zhihu.com/p/26177815) 
